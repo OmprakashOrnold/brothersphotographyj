@@ -57,7 +57,7 @@
 - Place to Add Photos  https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
 - Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
 - Example
-  ```javascript
+```json
 {
     id: 2,
     title: "Diya + Saurav: East Meets West",
@@ -74,5 +74,4 @@
       "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1608710204611-T98CBU2YTBUBTIMX7MG0/KCBlog_1.jpg?format=1000w",
     ],
   },
-
-  ```
+ ```
