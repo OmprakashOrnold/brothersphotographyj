@@ -35,9 +35,44 @@
 ```
 
 ### Recently On Instgram
-- Place to Add Photos 
-- Place to Modify Code
-### Blog Page
-- Place to Add Photos 
-- Place to Modify Code
+- Place to Add Photos https://github.com/OmprakashOrnold/brothersphotographyj/tree/main/images/recently-on-instagram
+- Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/blob/main/js/components/header.js
+- Example
+```html
+<div class="galary">
+    <img
+      src="../../images/recently-on-instagram/1.jpg"
+      alt=""
+      width="200px"
+    />
 
+  <img
+      src="../../images/recently-on-instagram/2.jpg"
+      alt=""
+      width="200px"
+    />
+  </div>
+```
+### Blog Page
+- Place to Add Photos  https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
+- Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
+- Example
+  ```
+{
+    id: 2,
+    title: "Diya + Saurav: East Meets West",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex cupiditate iusto velit aperiam numquam excepturi nobis placeat laborum obcaecati fugit, porro voluptatibus qui eligendi vero nostrum amet nesciunt ut facere ab distinctio hic neque! Voluptate aperiam saepe quis voluptatem accusamus inventore expedita quae repudiandae error dolores eaque neque, molestiae consequuntur quod! Nihil quae iste blanditiis. Accusamus ut modi fuga voluptatem consequuntur repudiandae optio ipsam quisquam soluta error amet tenetur nesciunt vitae voluptatibus, obcaecati incidunt facilis, accusantium quia. Assumenda, corrupti eum.",
+    releaseDate: "21 Aug 2024",
+    images: [
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1609420521104-03FMTXFTIRIQQHALG7LX/SCBlog_1.jpg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1609326691960-DIECNJQLKSCQSWZ7OBL8/KGBlog_1.jpg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1609175478718-RGZBHFXO797CVORI79OC/SumoBlog_1.jpg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1609093523996-2Z5PB8MWNJQ5BF54LYTE/VCBlog_0.jpg?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1609093523996-2Z5PB8MWNJQ5BF54LYTE/VCBlog_0.jpg?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1609084695053-R8DZF5NVE71L7P336ZBB/PrinnyBlog_22.jpg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1608710204611-T98CBU2YTBUBTIMX7MG0/KCBlog_1.jpg?format=1000w",
+    ],
+  },
+
+  ````
