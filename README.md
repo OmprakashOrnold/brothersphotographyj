@@ -57,7 +57,7 @@
 - Place to Add Photos  https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
 - Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
 - Example
-  ```
+  ```javascript
 {
     id: 2,
     title: "Diya + Saurav: East Meets West",
@@ -75,4 +75,4 @@
     ],
   },
 
-  ````
+  ```
