@@ -6,8 +6,8 @@
 4) Blog Page
 
 ### Welcome Page
-- Place to Add Photos  https://github.com/OmprakashOrnold/brothersphotographyj/tree/main/images/home
-- Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/blob/main/index.html
+- Place to Add Photos  https://github.com/Bablukanna6/brothersphotographyj/tree/main/images/home
+- Place to Modify Code https://github.com/Bablukanna6/brothersphotographyj/blob/main/index.html
 - Example
 ```html
   <div class="slideshow">
@@ -20,8 +20,8 @@
 ```
 
 ### Home Page Images Sliding
-- Place to Add Photos https://github.com/OmprakashOrnold/brothersphotographyj/blob/main/js/image.js
-- Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/blob/main/js/image.js
+- Place to Add Photos https://github.com/Bablukanna6/brothersphotographyj/blob/main/js/image.js
+- Place to Modify Code https://github.com/Bablukanna6/brothersphotographyj/blob/main/js/image.js
 - Example
 ```java script
   const crousalImage = [
@@ -35,8 +35,8 @@
 ```
 
 ### Recently On Instgram
-- Place to Add Photos https://github.com/OmprakashOrnold/brothersphotographyj/tree/main/images/recently-on-instagram
-- Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/blob/main/js/components/header.js
+- Place to Add Photos https://github.com/Bablukanna6/brothersphotographyj/tree/main/images/recently-on-instagram
+- Place to Modify Code https://github.com/Bablukanna6/brothersphotographyj/blob/main/js/components/header.js
 - Example
 ```html
 <div class="galary">
@@ -54,8 +54,8 @@
   </div>
 ```
 ### Blog Page
-- Place to Add Photos  https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
-- Place to Modify Code https://github.com/OmprakashOrnold/brothersphotographyj/edit/main/db/blog.js
+- Place to Add Photos  https://github.com/Bablukanna6/brothersphotographyj/edit/main/db/blog.js
+- Place to Modify Code https://github.com/Bablukanna6/brothersphotographyj/edit/main/db/blog.js
 - Example
 ```json
 {
