@@ -3,7 +3,8 @@ const crousalImage = [
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224910419-7VEZZ4N095S2PL3PBZIC/SJR_Upi+Paul+Paris+preview_00037.jpg?format=2500w",
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224920312-8BTPT9FKBINDZ6KR7BNP/HD_DC_SBJR-114.jpg?format=2500w",
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224581777-VS1L3RYSKWZ5JIL1AI5C/RS_0025A.JPG?format=2500w",
-  "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224613955-MAXD4YS5OZSCWOGUQ6VH/Brij+holi%2C+Mumbai+A7s.jpg?format=2500w"
+  "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224613955-MAXD4YS5OZSCWOGUQ6VH/Brij+holi%2C+Mumbai+A7s.jpg?format=2500w",
+  "https://zenfolio.creatorcdn.com/cb2303e7-3d21-4600-b216-d39b6ec9ef0d/0/1/0/X3XL/0-0-0/3575a530-f0e7-44b8-8815-1dad0fa2dcbb/1/1/SID03449.jpg?fjkss=exp=1720882800~hmac=c5b103b515c37fd12eeddc1836fffd6e9db9cc64e4a7b01725985688ae88c304&quot"
 
 ];
 
