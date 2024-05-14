@@ -79,6 +79,11 @@ const header_component1 = `<div class="site-profile">
       alt=""
       width="200px"
     />
+     <img
+      src="../../images/recently-on-instagram/2.jpg"
+      alt=""
+      width="200px"
+    />
   </div>
   <div class="smallScreen-socel-icon">
   <div class="social-media-links">
