@@ -2,8 +2,7 @@ const blogData = [
   {
     id: 1,
     title: "SAI KRISHNA & NIKITHA PreWed",
-    description:
-      "",
+    description: "",
     releaseDate: "25-Apr-2024",
     images: [
       "https://zenfolio.creatorcdn.com/a4e63763-b374-4d89-bd0e-99f7203da30b/0/1/0/X2XL/0-0-0/718d4e54-db81-4e96-93c4-58d967a4d0af/1/1/27.jpg?fjkss=exp=1720024200~hmac=11382815ded447c211f556aaffcf81e35cbdd049d4c82c6fcc2042ede97badb7",
@@ -80,8 +79,8 @@ const blogData = [
   {
     id: 2,
     title: "Pre Wedding Catalog",
-    description:""
-       releaseDate: "13-Apr-2024",
+    description:"",
+    releaseDate: "13-Apr-2024",
     images:[
   "https://zenfolio.creatorcdn.com/88ecf0f4-17a1-4dca-a3d2-15738c2d79e8/0/1/0/X2XL/0-0-0/00721f99-6c84-4564-948c-45a299705914/1/1/SIDD27.jpg?fjkss=exp=1721800800~hmac=1ce492d3dc1cc4eb8fb7d227aaebb7549e1a5e82ae385871d985a3fe753a4cdb",
   "https://zenfolio.creatorcdn.com/88ecf0f4-17a1-4dca-a3d2-15738c2d79e8/0/1/0/X2XL/0-0-0/034fcd9f-9219-4db8-8b15-8602c0116d38/1/1/SIDD73.jpg?fjkss=exp=1721800800~hmac=1ce492d3dc1cc4eb8fb7d227aaebb7549e1a5e82ae385871d985a3fe753a4cdb",
