@@ -211,7 +211,7 @@ const blogData = [
   {
     id: 3,
     title: "Wedding Catalog",
-    description: "".
+    description: "",
         releaseDate: "13-Apr-2024",
     images:[
   "https://zenfolio.creatorcdn.com/759f1cd9-2f5e-4427-8248-5e6421a8ac72/0/1/0/X2XL/0-0-0/694f13e3-4dd3-48d2-bc0a-6091a8ce64df/1/1/TMP_5123.jpg?fjkss=exp=1721836800~hmac=94cb4e4c16f3bcfa176ac33d17b10f701a45ee0a09d8bdf238eee00c3738ad4d",
