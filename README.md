@@ -75,3 +75,16 @@
     ],
   },
  ```
+
+### Update Blog Template link
+```
+  {
+    id: 6,
+    title: "",
+    description:"",
+    releaseDate: "",
+    images: [
+     
+    ],
+  },
+```
