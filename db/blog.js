@@ -481,8 +481,8 @@ const blogData = [
     description:"",
     releaseDate: "30-Aug-2023",
     images: 
-    [
-  "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/02d50843-fd60-4cd7-a3d4-6f6c47038170/1/1/SID 46.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
+  [
+  
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/02e1bfb7-574c-4681-b946-5b9d9e64a6e9/1/1/SID 03.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/0d22080f-302b-49ce-a543-fbdd4fb551cd/1/1/SID 25.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/11a159d7-ade9-46ea-ae04-a1cc00ad3290/1/1/SID 50.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
@@ -490,6 +490,8 @@ const blogData = [
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/1c6d7a83-a15d-4571-8a72-6f7dc2bd5835/1/1/SID 18.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/269a6fc0-c602-4eca-8755-f46d8e26e881/1/1/SID 12.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/2a172518-b142-45f4-870a-b398a38c2fba/1/1/SID 27.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
+  
+  "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/02d50843-fd60-4cd7-a3d4-6f6c47038170/1/1/SID 46.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/2b1149f0-7ec6-48b8-9392-4104039e6b9f/1/1/SID 32.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/2ff09584-dcd4-4544-beb3-2b92a1f68e9e/1/1/SID 47.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
   "https://zenfolio.creatorcdn.com/5331f2f8-8e7d-4c90-890c-a7902e1974ab/0/1/0/X2XL/0-0-0/33e25907-7e13-4ff0-bf56-86bcf5671f1c/1/1/SID 13.jpg?fjkss=exp=1722414600~hmac=35c1f00556800bd88cefe726e255c23a8e77b5b9dab7cbf25536ff044f4c2e75",
