@@ -1,6 +1,6 @@
 const crousalImage = [
   "https://zenfolio.creatorcdn.com/a4e63763-b374-4d89-bd0e-99f7203da30b/0/1/0/X2XL/0-0-0/18201670-cc60-47bd-bc44-7e1bb0ac6005/1/1/27.jpg?fjkss=exp=1720024200~hmac=11382815ded447c211f556aaffcf81e35cbdd049d4c82c6fcc2042ede97badb7",
-  
+  "https://zenfolio.creatorcdn.com/39a5f814-91f3-423e-a808-d8db771af4d9/0/1/0/X3XL/0-0-0/4d0ba965-d111-4314-8e67-bf895fc7036a/1/1/SID01.jpg?fjkss=exp=1723442400~hmac=73870060fd92feb7294c5d8cc212050dfbcdb581226f089a019d089862c356a2",
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224920312-8BTPT9FKBINDZ6KR7BNP/HD_DC_SBJR-114.jpg?format=2500w",
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224581777-VS1L3RYSKWZ5JIL1AI5C/RS_0025A.JPG?format=2500w",
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224613955-MAXD4YS5OZSCWOGUQ6VH/Brij+holi%2C+Mumbai+A7s.jpg?format=2500w",
