@@ -19,7 +19,7 @@ const crousalImage = [
 "https://zenfolio.creatorcdn.com/39a5f814-91f3-423e-a808-d8db771af4d9/0/1/0/X3XL/0-0-0/7c69f52d-29b0-46c3-9909-52311b17b9a4/1/1/SID017.jpg?fjkss=exp=1723442400~hmac=73870060fd92feb7294c5d8cc212050dfbcdb581226f089a019d089862c356a2",
 "https://zenfolio.creatorcdn.com/39a5f814-91f3-423e-a808-d8db771af4d9/0/1/0/X3XL/0-0-0/715859e6-812f-45e5-88cd-5b1e2129fce4/1/1/SID021.jpg?fjkss=exp=1723442400~hmac=73870060fd92feb7294c5d8cc212050dfbcdb581226f089a019d089862c356a2
 "https://zenfolio.creatorcdn.com/39a5f814-91f3-423e-a808-d8db771af4d9/0/1/0/X3XL/0-0-0/03c3ddbc-9344-42a1-b126-63e88ac75f90/1/1/SID022.jpg?fjkss=exp=1723442400~hmac=73870060fd92feb7294c5d8cc212050dfbcdb581226f089a019d089862c356a2",
-
+"https://zenfolio.creatorcdn.com/39a5f814-91f3-423e-a808-d8db771af4d9/0/1/0/X3XL/0-0-0/5ec9717b-7c09-481e-b993-0bdbb2a6a427/1/1/SID020.jpg?fjkss=exp=1723442400~hmac=73870060fd92feb7294c5d8cc212050dfbcdb581226f089a019d089862c356a2",
 
 ];
 
