@@ -79,6 +79,8 @@
 ### Update Blog Template link
 Link :- https://github.com/Bablukanna6/brothersphotographyj/blob/main/db/blog.js
 
+Images Extraction :- https://extractimageslinks.onrender.com/swagger-ui/index.html#/image-controller/getImageUrls
+
 ```
   {
     id: 6,
