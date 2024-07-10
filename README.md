@@ -77,6 +77,8 @@
  ```
 
 ### Update Blog Template link
+Link :- https://github.com/Bablukanna6/brothersphotographyj/blob/main/db/blog.js
+
 ```
   {
     id: 6,
