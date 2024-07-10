@@ -648,7 +648,45 @@ const blogData = [
 
     ,
   },
-  
+
+    {
+    id: 8,
+    title: "BABLI bdy",
+    description:"",
+    releaseDate: "",
+    images: 
+      [
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/cd9a0f9f-8e2c-4e65-ada0-3125bb31fa70/1/1/SID_5778.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/f1ae1ef4-3cce-404e-8f2a-b4b40dd92924/1/1/SID_5789.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/27387c43-c797-4fc0-bf45-870f8d1c9b34/1/1/SID_5796.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/d74dc951-d7b0-4cb4-ae44-0d4c1227ac9f/1/1/SID_5800.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/ff11a0de-bdd1-4089-8216-a06e085c030e/1/1/SID_5804.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/10f1a023-f091-48a8-ac47-3846c9fe5077/1/1/SID_5809.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/b76a1548-aae7-4a5f-8f9e-25bc019c49ef/1/1/SID_5824.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/bfba3c84-bff7-47fe-8720-d4f6a58c9aa6/1/1/SID_5830.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/4f9da5a0-f747-4aa5-8735-c6033fb162c9/1/1/SID_5833.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/a2e643b4-5e86-4128-996b-3bc7d304968f/1/1/SID_5840.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/e98e8e1d-ea4a-4993-b153-ad72d9727e8f/1/1/SID_5843.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/16a6fc96-fc71-4111-b438-25fd90657737/1/1/SID_5846.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/980ed061-3856-4fd6-bc54-88d268e00aa7/1/1/SID_5852.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/4e49da9a-2e94-43aa-9085-921ad1dae12e/1/1/SID_5857.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/ed947055-9f4f-4381-9889-37bb62f79aed/1/1/SID_5868.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/7582dd6d-128e-4e6a-aa44-e10a7a6935e0/1/1/SID_5870.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/33a64e86-d4f1-431b-8d6a-6343502b6316/1/1/SID_5872.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/a53b95bb-759a-46fa-8018-a82a86a226ae/1/1/SID_5874.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/50a14d2a-b018-40bb-bc62-65ae7f7e7907/1/1/SID_5879.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/f1caf58d-d5dd-4bd8-9f69-9488827e6cc4/1/1/SID_5880.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/4e153b10-d1ca-4957-8462-36a065bcc5f1/1/1/SID_5882.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/41cc451d-8219-4a4c-bf72-06f910c5f463/1/1/SID_5886.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/e9b13051-3736-41c1-abc1-9ac78ea3eab3/1/1/SID_5891.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/669050de-3c93-4422-9222-8f1c79772d21/1/1/SID_5893.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3",
+  "https://zenfolio.creatorcdn.com/a76597cc-cdf2-4c75-915b-ced783081d60/0/1/0/X2XL/0-0-0/820f2a31-1b09-4af3-a56a-03337b96173f/1/1/SID_5896.jpg?fjkss=exp=1725768000~hmac=ee51a911fad45bed9f878e9a8037ef1ce7f662ce74721caa1ec80452593310a3"
+]
+
+
+
+    ,
+  },
 
  
 ];
