@@ -573,12 +573,13 @@ const blogData = [
 ]
   },
 
-  {
-    id: 6,
-    title: "",
+    {
+    id: 7,
+    title: "JUNNU 1ST BDY",
     description:"",
     releaseDate: "",
-    images: [
+    images: 
+      [
   "https://zenfolio.creatorcdn.com/dce73a36-fa7b-4d6b-bd26-793eced3a4b4/0/1/0/X2XL/0-0-0/fb5b160a-3a30-4df0-a8d9-f471a4b5eb6f/1/1/SID08289.jpg?fjkss=exp=1725766200~hmac=335c110ca1c02043b4443b3241c9ac3fdd312261cbc37fd17fb0893adad1c9b2",
   "https://zenfolio.creatorcdn.com/dce73a36-fa7b-4d6b-bd26-793eced3a4b4/0/1/0/X2XL/0-0-0/c0768beb-2d7b-4079-b08a-f9b6731ddaed/1/1/SID08296.jpg?fjkss=exp=1725766200~hmac=335c110ca1c02043b4443b3241c9ac3fdd312261cbc37fd17fb0893adad1c9b2",
   "https://zenfolio.creatorcdn.com/dce73a36-fa7b-4d6b-bd26-793eced3a4b4/0/1/0/X2XL/0-0-0/d5d111ec-5fc4-4404-a092-c980cca32a3e/1/1/SID08298.jpg?fjkss=exp=1725766200~hmac=335c110ca1c02043b4443b3241c9ac3fdd312261cbc37fd17fb0893adad1c9b2",
@@ -605,10 +606,10 @@ const blogData = [
   "https://zenfolio.creatorcdn.com/dce73a36-fa7b-4d6b-bd26-793eced3a4b4/0/1/0/X2XL/0-0-0/b53f1aa2-54b6-4191-a4c2-8509d6b20681/1/1/SID08376.jpg?fjkss=exp=1725766200~hmac=335c110ca1c02043b4443b3241c9ac3fdd312261cbc37fd17fb0893adad1c9b2",
   "https://zenfolio.creatorcdn.com/dce73a36-fa7b-4d6b-bd26-793eced3a4b4/0/1/0/X2XL/0-0-0/9d8b739b-ac31-47f7-93f6-4fbefc3c9616/1/1/SID08380.jpg?fjkss=exp=1725766200~hmac=335c110ca1c02043b4443b3241c9ac3fdd312261cbc37fd17fb0893adad1c9b2"
 ]
-    
-    ,
+      
+      ,
   },
-  
+
  
 ];
 
