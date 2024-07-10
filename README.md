@@ -85,8 +85,10 @@ Link :- https://github.com/Bablukanna6/brothersphotographyj/blob/main/db/blog.js
     title: "",
     description:"",
     releaseDate: "",
-    images: [
-     
-    ],
+    images: 
+
+
+
+    ,
   },
 ```
