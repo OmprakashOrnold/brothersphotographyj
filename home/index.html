@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="../css/index.css" />
+    <link rel="stylesheet" type="text/css" href="./home.css" />
+    <script src="../js/image.js"></script>
+    <script src="../db/blog.js"></script>
+    <script src="../images/FeaturedOnNetflixData/FeaturedOnNetflixData.js"></script>
+    <title>Brothers Photography | Home</title>
+  </head>
+  <body>
+    <!-- header -->
+    <div id="headerSection"></div>
+    <!-- Menu -->
+    <nav class="menu openClose" id="headerSection1"></nav>
+    <nav class="smallScreen-menu" id="headerSection2"></nav>
+    <nav class="smallScreen-search-page" id="headerSection3"></nav>
+    <nav
+      class="smallScreen-middle-menu middleSectionSmallScreen"
+      id="headerSection4"
+    ></nav>
+    <!-- header end -->
+
+    <main>
+      <section>
+        <div class="carousel-container">
+          <div class="carousel-images"></div>
+          <button
+            class="control-button prev-button bigScreen"
+            onclick="prevSlide()"
+          >
+            <i class="fa fa-chevron-left"></i>
+          </button>
+          <button
+            class="control-button next-button bigScreen"
+            onclick="nextSlide()"
+          >
+            <i class="fa fa-chevron-right"></i>
+          </button>
+        </div>
+        <div class="selectImage">
+          <div class="all-images"></div>
+        </div>
+      </section>
+      <br />
+      <br />
+      <br />
+      <br />
+      <section id="featured-section-first">
+        <h1>
+          Featured on Netflix, Vogue, Harper's, People magazine and more. And
+          yes, on every bride's wishlist.
+        </h1>
+        <p>
+          <strong>Stories by Joseph Radhik </strong>is recognized as one of the
+          world's finest wedding photography firms. We create exquisite visual
+          stories rooted in heart, rooted in emotion, rooted in the story of the
+          moment.
+        </p>
+        <div id="featured-section-first-cards">
+          <!-- Hear load card -->
+        </div>
+        <div class="Button">
+          <p>and much more</p>
+          <a href="../my-story">
+            Be the start own store. Book us <br />
+            now
+          </a>
+        </div>
+      </section>
+      <section id="featured-section">
+        <h1>Featured on the blog</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. In, quas?
+          Fuga quod assumenda ipsa quasi quos iure, tenetur asperiores libero.
+        </p>
+        <div id="inner-card-home"></div>
+      </section>
+    </main>
+    <footer id="footer"></footer>
+  </body>
+
+  <script src="../js/components/header.js"></script>
+  <script src="../js/components/footer.js"></script>
+  <script src="../js/middleSidebar.js"></script>
+  <script src="../js/sidebar.js"></script>
+  <script src="../js/search.js"></script>
+  <script src="./home.js"></script>
+</html>
