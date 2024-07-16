@@ -8,7 +8,7 @@ closeIconsSearch.forEach((icon) => (icon.style.display = "none"));
 function search(event) {
   event.preventDefault();
   const searchTerm = document.getElementById("searchInput").value;
-  var url = "../../pages/search/search.html?q=" + searchTerm;
+  var url = "../search/search.html?q=" + searchTerm;
   window.location.href = url;
 }
 
@@ -19,8 +19,6 @@ document
       search(e);
     }
   });
-
-
 
 // Search funcanality
 
@@ -44,13 +42,14 @@ filteredImages.forEach((item) => {
   const truncatedDescription =
     words.length > 25 ? shortDescription + "..." : shortDescription;
 
-  const component = `<a href="../blog/showblog.html?par=${item.id}" class="post">
+  const component = `<a href="../blog/?${item.title}" class="post">
         <div class="imagesection">
           <img
             src="${item.images[0]}"
             alt=""
             width="180px"
             height="180px"
+            loading = "lazy"
           />
         </div>
         <div class="contentsection">
