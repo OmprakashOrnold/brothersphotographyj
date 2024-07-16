@@ -3,7 +3,7 @@ const footer = document.getElementById("footer");
 const footer_component = `
 <div>
 
-<a href="../my-story">
+<a href="../../pages/my-story/my-store.html">
   <span><i class="title">Book us now</i></span>
 </a>
 
