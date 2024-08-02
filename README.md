@@ -23,6 +23,7 @@
 - Place to Add Photos https://github.com/Bablukanna6/brothersphotographyj/blob/main/js/image.js
 - Place to Modify Code https://github.com/Bablukanna6/brothersphotographyj/blob/main/js/image.js
 - Example
+  
 ```java script
   const crousalImage = [
   "https://images.squarespace-cdn.com/content/v1/58590703e4fcb586c80e4914/1486224910419-7VEZZ4N095S2PL3PBZIC/SJR_Upi+Paul+Paris+preview_00037.jpg?format=2500w",
@@ -88,9 +89,6 @@ Images Extraction :- https://extractimageslinks.onrender.com/swagger-ui/index.ht
     description:"",
     releaseDate: "",
     images: 
-
-
-
     ,
   },
 ```
