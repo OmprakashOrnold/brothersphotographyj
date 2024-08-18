@@ -81,22 +81,6 @@ const header_component1 = `<div class="site-profile">
       loading = "lazy"
     />
   </div>
-  <div class="smallScreen-socel-icon">
-  <div class="social-media-links">
-  <a href="https://www.instagram.com/brothersphotographyj?igsh=MWZxeGU1N2U0ZDF0aA=="
-    class="social-link instagram" style="margin-right: 10px; font-size: 26px;">
-    <i class="fa fa-instagram" style="color: black;"></i>
-  </a>
-  <a href="https://www.facebook.com/share/FUp3LXkaSpsrh2ti/?mibextid=LQQJ4d" class="social-link facebook"
-    style="margin-right: 10px; font-size: 26px">
-    <i class="fa fa-facebook" style="color: black;"></i>
-  </a>
-  <a href="https://youtube.com/@brothersphotography4517?si=DGdJHjwSkjxOO0cT" class="social-link youtube"
-    style="margin-right: 10px; font-size: 26px">
-    <i class="fa fa-youtube" style="color: black;"></i>
-  </a>
-</div>
-  </div>
 </div>
 </div>`;
 header1.innerHTML = header_component1;
